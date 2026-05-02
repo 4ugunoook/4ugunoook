@@ -1,16 +1,39 @@
-## Hi there 👋
+<h2 align="center">👋Привет, меня зовут Вадим</h2>
+<h3 align="center">Начинающий cистемный администратор / DevOps-engineer</h3>
 
-<!--
-**4ugunoook/4ugunoook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://t.me/babkalynatik">
+    <img src="https://img.shields.io/badge/Telegram-%40babkalynatik-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="telegram"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
+### 🛠️ Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Shells**
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=py&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=bash,powershell&theme=dark" />
+</p>
+
+**OS & Editors**
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=linux&theme=light" />
+    <img src="https://skillicons.dev/icons?i=windows,vscode,obsidian&theme=dark" />
+</p>
+
+**Tools**
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=github,postgres&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=figma&theme=light" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.codewars.com/users/4ugunoook">
+<img src="https://www.codewars.com/users/4ugunoook/badges/large" >
+  </a>
+</p>
