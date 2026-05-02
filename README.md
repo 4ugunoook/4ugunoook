@@ -1,4 +1,4 @@
-<h2 align="center">👋Привет, меня зовут Вадим</h2>
+<h2 align="center">👋🏻Привет, меня зовут Вадим</h2>
 <h3 align="center">Начинающий cистемный администратор / DevOps-engineer</h3>
 
 <p align="center">
