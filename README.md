@@ -8,22 +8,28 @@
 </p>
 
 ---
-### 🛠️ Stack
+<h3 align="center">🛠️ Stack</h3>
 
-**Languages & Shells**
-<p align="left">
+<p align="center">
+  <b>Languages & Shells</b>
+</p>
+<p align="center">
     <img src="https://skillicons.dev/icons?i=py&theme=dark" />
     <img src="https://skillicons.dev/icons?i=bash,powershell&theme=dark" />
 </p>
 
-**OS & Editors**
-<p align="left">
+<p align="center">
+ <b>OS & Editors</b>
+</p>
+<p align="center">
     <img src="https://skillicons.dev/icons?i=linux&theme=light" />
     <img src="https://skillicons.dev/icons?i=windows,vscode,obsidian&theme=dark" />
 </p>
 
-**Tools**
-<p align="left">
+<p align="center">
+  <b>Tools</b>
+</p>
+<p align="center">
     <img src="https://skillicons.dev/icons?i=docker&theme=light" />
     <img src="https://skillicons.dev/icons?i=git" />
     <img src="https://skillicons.dev/icons?i=github,postgres&theme=dark" />
