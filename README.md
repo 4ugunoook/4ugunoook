@@ -1,9 +1,10 @@
-<h2 align="center">👋🏻Привет, меня зовут Вадим</h2>
-<h3 align="center">Начинающий cистемный администратор / DevOps-engineer</h3>
+<h2 align="center">👋🏻 Hi, I'm Vadim</h2>
+<h3 align="center"> System Administrator / DevOps Engineer</h3>
 
+<h3 align="center"> Contact details </h3>
 <p align="center">
-  <a href="https://t.me/babkalynatik">
-    <img src="https://img.shields.io/badge/Telegram-%40babkalynatik-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="telegram"/>
+   <a href="https://t.me/babkalynatik">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
 
